@@ -8,21 +8,24 @@
             <th>Week</th>
             <th>Date</th>
             <th>Video Lessons</th>
-            <th>Lab</th>
-            <th>Deliverable Due</th>
+            <th>Exams/Project Deadlines *</th>
+            <th>Holiday/GT deadline</th>
+            <th>Papers</th>
             <th>Finished</th>
             <th>Notes</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td rowspan=2>1</td>
-            <td>1/8/2019</td>
-            <td><ul><li>- [x] 1. Intro to Big Data Analytics</li></td>
+            <td>1</td>
+            <td>1/7/2019</td>
+            <td><ul><li>- [x] P1L1</li> <li>- [ ] P1L2</li></td>
+            <td><ul><li>- [ ] install and configure class environment</li></td>
             <td></td>
             <td></td>
-            <td>1/28/2019</td>
-            <td>  </td>
+            <td></td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td>1/10/2019</td>
